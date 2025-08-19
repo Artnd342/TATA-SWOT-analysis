@@ -5,7 +5,7 @@ This repository contains a SWOT Analysis infographic created as part of a busine
 It highlights **Strengths, Weaknesses, Opportunities and Threats** in a visually appealing format.  
 
 # Poster Preview
-![SWOT Analysis Poster](23EC034_Non_Tech_Project.png)
+![SWOT Analysis Poster]("23EC034 Non Tech Project.png")
 
 # Purpose
 - To showcase analytical, presentation, and design skills.  
